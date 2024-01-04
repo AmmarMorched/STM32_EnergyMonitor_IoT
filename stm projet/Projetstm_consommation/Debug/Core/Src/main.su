@@ -1,0 +1,13 @@
+../Core/Src/main.c:38:7:HAL_ADC_ConvCpltCallback	16	static
+../Core/Src/main.c:139:6:sendATCommand	16	static
+../Core/Src/main.c:142:6:configureWiFi	72	static
+../Core/Src/main.c:148:6:sendDataToThingSpeak	120	static
+../Core/Src/main.c:157:5:main	64	static
+../Core/Src/main.c:363:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:381:6:SystemClock_Config	88	static
+../Core/Src/main.c:427:13:MX_ADC1_Init	24	static
+../Core/Src/main.c:488:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:522:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:554:13:MX_DMA_Init	16	static
+../Core/Src/main.c:572:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:622:6:Error_Handler	4	static,ignoring_inline_asm
